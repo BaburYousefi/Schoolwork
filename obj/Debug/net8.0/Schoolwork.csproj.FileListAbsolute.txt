@@ -1,0 +1,14 @@
+C:\Users\BY\desktop\Schoolwork\bin\Debug\net8.0\Schoolwork.exe
+C:\Users\BY\desktop\Schoolwork\bin\Debug\net8.0\Schoolwork.dll
+C:\Users\BY\desktop\Schoolwork\obj\Debug\net8.0\Schoolwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BY\desktop\Schoolwork\obj\Debug\net8.0\Schoolwork.AssemblyInfoInputs.cache
+C:\Users\BY\desktop\Schoolwork\obj\Debug\net8.0\Schoolwork.AssemblyInfo.cs
+C:\Users\BY\desktop\Schoolwork\obj\Debug\net8.0\Schoolwork.csproj.CoreCompileInputs.cache
+C:\Users\BY\desktop\Schoolwork\obj\Debug\net8.0\Schoolwork.dll
+C:\Users\BY\desktop\Schoolwork\obj\Debug\net8.0\refint\Schoolwork.dll
+C:\Users\BY\desktop\Schoolwork\obj\Debug\net8.0\Schoolwork.pdb
+C:\Users\BY\desktop\Schoolwork\bin\Debug\net8.0\Schoolwork.deps.json
+C:\Users\BY\desktop\Schoolwork\bin\Debug\net8.0\Schoolwork.runtimeconfig.json
+C:\Users\BY\desktop\Schoolwork\bin\Debug\net8.0\Schoolwork.pdb
+C:\Users\BY\desktop\Schoolwork\obj\Debug\net8.0\Schoolwork.genruntimeconfig.cache
+C:\Users\BY\desktop\Schoolwork\obj\Debug\net8.0\ref\Schoolwork.dll
